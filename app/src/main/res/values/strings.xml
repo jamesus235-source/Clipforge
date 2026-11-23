@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ClipForge AI</string>
+    <string name="hero_headline">Turn Long Videos Into Viral Shorts.</string>
+    <string name="hero_subtitle">Analyze long-form videos, frame vertical shorts, customize dynamic captions, and export crisp MP4s on-device.</string>
+    <string name="youtube_hint">Paste YouTube URL (watch, youtu.be, or shorts)</string>
+    <string name="generate_clips">Generate Clips</string>
+    <string name="upload_video">Upload Video File</string>
+    <string name="sample_studio_video">Load Sample Studio Video</string>
+    <string name="ai_firebase_notice">AI features require Firebase. Showing labeled sample AI clips &amp; copy—video playback, silence scan, editor &amp; MP4 export run locally.</string>
+    <string name="score_estimate_disclaimer">Estimate only — not a guarantee of views</string>
+    <string name="nav_create">Create</string>
+    <string name="nav_editor">Studio</string>
+    <string name="nav_export">Export</string>
+    <string name="nav_projects">Projects</string>
+</resources>

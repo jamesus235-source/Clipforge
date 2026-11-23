@@ -1,0 +1,6 @@
+{
+  "name": "ClipForge AI",
+  "description": "AI-powered video clipping studio that turns long-form videos into customizable vertical shorts with burned-in subtitles and MP4 export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
